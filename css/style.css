@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    font-family: Verdana, sans-serif;
+}
+
+main {
+    text-align: center;
+}
+
+h1, footer {
+    color: white;
+    font-weight: normal;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#intro h1 {
+    font-size: 50px;
+}
+
+#content h1, #announce h1{
+    font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    font-weight: bold;
+}
+
+video, img {
+    padding-top: 20px;
+}
